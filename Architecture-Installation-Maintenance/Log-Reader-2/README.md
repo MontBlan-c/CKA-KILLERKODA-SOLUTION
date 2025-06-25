@@ -38,7 +38,7 @@ k logs alpine-reader-pod > podlogs.txt
    We need to put this into the file `podlogs.txt ` <br>
    We can either create the file (``` vim podlogs.txt ```) and paste the logs into it or, do it in one command:
    ```
-   k logs alpine-reader-pod > podlogs.txt
+   kubectl logs alpine-reader-pod > podlogs.txt
    ```
 7. ## Check File
     We can check this file with:
