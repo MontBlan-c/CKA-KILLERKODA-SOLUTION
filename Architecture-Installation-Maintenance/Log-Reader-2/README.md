@@ -2,6 +2,7 @@
 ### Name: Log Reader - 2
 ### Weight: 4
 ### Link: https://killercoda.com/sachin/course/CKA/log-reader-1
+### Video: https://www.loom.com/share/9aa809f5e13c46718d481b059d8fda96
 ### Task: 
 alpine-reader-pod pod is running, save All INFO and ERROR's pod logs in podlogs.txt
 ## Run the below command (Full Solution)
