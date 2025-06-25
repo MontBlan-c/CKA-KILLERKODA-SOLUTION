@@ -1,5 +1,10 @@
-
-## Run the below command 
+### Group: Architecture, Installation & Maintenance
+### Name: Log Reader - 2
+### Weight: 4
+### Link: https://killercoda.com/sachin/course/CKA/log-reader-1
+### Task: 
+alpine-reader-pod pod is running, save All INFO and ERROR's pod logs in podlogs.txt
+## Run the below command (Full Solution)
 
 ```
 k logs alpine-reader-pod > podlogs.txt
