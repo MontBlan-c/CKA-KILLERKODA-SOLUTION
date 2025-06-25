@@ -1,3 +1,6 @@
+## Group: Architecture, Installation & Maintenance
+## Weight: 10
+## Name: Cluster Upgrade
 ## KillerCoda: [link](https://killercoda.com/sachin/course/CKA/cluster-upgrade)
 ## Video: [link](https://www.loom.com/share/3d25001848514e0b8c2e3f9d32d28243?sid=a4a836f4-1fa4-4b35-8653-a66ba5dc5336)
 # Below guide is for this question and if you wanna learn more about cluster upgrade  please refer below blog .
