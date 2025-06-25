@@ -1,8 +1,8 @@
 ### Group: Architecture, Installation & Maintenance
 ### Name: Log Reader - 2
 ### Weight: 4
-### Link: https://killercoda.com/sachin/course/CKA/log-reader-1
-### Video: https://www.loom.com/share/9aa809f5e13c46718d481b059d8fda96
+### KillerCoda: [link](https://killercoda.com/sachin/course/CKA/log-reader-1)
+### Video: [link](https://www.loom.com/share/9aa809f5e13c46718d481b059d8fda96)
 ### Task: 
 alpine-reader-pod pod is running, save All INFO and ERROR's pod logs in podlogs.txt
 ## Run the below command (Full Solution)
@@ -11,7 +11,7 @@ alpine-reader-pod pod is running, save All INFO and ERROR's pod logs in podlogs.
 k logs alpine-reader-pod > podlogs.txt
 ```
 ## Step by Step Solution:
-### Resources: https://kubernetes.io/docs/reference/kubectl/generated/kubectl_logs/
+### Resources: [link](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_logs/)
 1. ## Check Pods
    ```
    kubectl get pods
