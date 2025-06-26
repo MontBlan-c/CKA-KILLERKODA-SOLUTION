@@ -3,6 +3,7 @@
 ### Weight: 4
 ### KillerCoda: [link](https://killercoda.com/sachin/course/CKA/log-reader-1)
 ### Video: [link](https://www.loom.com/share/9aa809f5e13c46718d481b059d8fda96)
+### Youtube: [link](https://youtu.be/Snx5sOAgg_E)
 ### Task: 
 alpine-reader-pod pod is running, save All INFO and ERROR's pod logs in podlogs.txt
 ## Run the below command (Full Solution)
